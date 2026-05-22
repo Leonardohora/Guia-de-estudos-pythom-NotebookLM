@@ -6,10 +6,10 @@ Um "Norte"/Guia de estudos do python usando o NotebookLM
 
   **Fontes:**  
   
-  https://www.python.org
-  https://blog.dsacademy.com.br/e-book-de-linguagem-python-do-hello-world-a-projetos-profissionais/#wrapper
-  https://www.youtube.com/watch?v=NpmFbWO6HPU
-  https://kinsta.com/blog/python-frameworks/
+  https://www.python.org /
+  https://blog.dsacademy.com.br/e-book-de-linguagem-python-do-hello-world-a-projetos-profissionais/#wrapper /
+  https://www.youtube.com/watch?v=NpmFbWO6HPU /
+  https://kinsta.com/blog/python-frameworks/ /
 
   Essas são as principais fontes, sendo elas, a página oficial da linguagem Python, vídeo com 9 horas de projetos    do básico ao avançado, diversos frameworks e seus objetos.
 
