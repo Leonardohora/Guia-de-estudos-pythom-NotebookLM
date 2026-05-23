@@ -127,8 +127,6 @@ Para o seu curso de análise, você prefere ver um exemplo de como extrair uma l
      - web scraping;
      - automação de planilhas
 
-   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 
    ### glossário:
    
