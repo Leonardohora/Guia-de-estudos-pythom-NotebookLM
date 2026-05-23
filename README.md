@@ -130,26 +130,26 @@ Para o seu curso de análise, você prefere ver um exemplo de como extrair uma l
 
    ### glossário:
    
-   ## Automação
-   Processo de executar tarefas automaticamente.
-   
-   ## Selenium
-   Biblioteca utilizada para automação web.
-   
-   ## Script
-   Arquivo contendo código executável.
-   
-   ## Web Scraping
-   Extração automática de dados de sites.
+     ## Automação
+     Processo de executar tarefas automaticamente.
+     
+     ## Selenium
+     Biblioteca utilizada para automação web.
+     
+     ## Script
+     Arquivo contendo código executável.
+     
+     ## Web Scraping
+     Extração automática de dados de sites.
 
    
    ### Prompts reutilizaveis:
    
-   ## Explicar código
-   "Explique esse código Python linha por linha."
-   
-   ## Criar automações
-   "Crie uma automação simples em Python para organizar arquivos."
-   
-   ## Corrigir erros
-   "Analise esse erro em Python e explique como corrigir."
+     ## Explicar código
+     "Explique esse código Python linha por linha."
+     
+     ## Criar automações
+     "Crie uma automação simples em Python para organizar arquivos."
+     
+     ## Corrigir erros
+     "Analise esse erro em Python e explique como corrigir."
