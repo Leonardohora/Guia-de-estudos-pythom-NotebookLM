@@ -143,7 +143,7 @@ Para o seu curso de análise, você prefere ver um exemplo de como extrair uma l
      Extração automática de dados de sites.
 
    
-   ### Prompts reutilizaveis:
+   ## Prompts reutilizaveis:
    
      # Explicar código
      "Explique esse código Python linha por linha."
