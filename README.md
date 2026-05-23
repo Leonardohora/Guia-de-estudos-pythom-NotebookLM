@@ -132,7 +132,7 @@ Para o seu curso de análise, você prefere ver um exemplo de como extrair uma l
    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-   ###*glossário:*
+   ### *glossário:*
    
    ## Automação
    Processo de executar tarefas automaticamente.
@@ -147,7 +147,7 @@ Para o seu curso de análise, você prefere ver um exemplo de como extrair uma l
    Extração automática de dados de sites.
 
    
-   ###*Prompts reutilizaveis:*
+   ### *Prompts reutilizaveis:*
    
    ## Explicar código
    "Explique esse código Python linha por linha."
