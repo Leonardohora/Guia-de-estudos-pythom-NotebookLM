@@ -46,9 +46,9 @@ Em vez de você clicar em botões ou mover arquivos um a um, você escreve um c�
 
 **Prompt 2:** Crie exemplos simples de automação usando python e o selenium
  
- **Resultado:** Automação com Python é a criação de scripts para executar tarefas repetitivas, manuais ou complexas de forma independente, sem a necessidade de intervenção humana constante
+ **Resultado:** Automação com Python é a criação de scripts para executar tarefas repetitivas, manuais ou complexas de forma independente, sem a necessidade de intervenção humana constante.
 
-. O objetivo principal é aumentar a produtividade e permitir que você foque em problemas mais estratégicos, deixando o "trabalho chato" para o computador.
+O objetivo principal é aumentar a produtividade e permitir que você foque em problemas mais estratégicos, deixando o "trabalho chato" para o computador.
 
 Aqui estão três exemplos simples de como isso funciona na prática:
 Backup Automático de Pastas: Você pode usar a biblioteca shutil para copiar recursivamente todos os arquivos de um diretório de trabalho para uma pasta de segurança, garantindo que nada se perca.
