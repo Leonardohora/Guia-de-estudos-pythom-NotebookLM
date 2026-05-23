@@ -59,7 +59,7 @@ Agendamento de Rotinas: Com a biblioteca schedule, você define que um script de
 
 Para avançarmos no seu curso, você prefere que eu mostre um exemplo de código para mover arquivos ou quer entender como agendar um script para rodar sozinho todos os dias?
 
-**Promtp 3:** Crie exemplos simples de automação usando o Python e o Selenium.
+**Prompt 3:** Crie exemplos simples de automação usando o Python e o Selenium.
 
  **Resultado:**  O Selenium é uma ferramenta poderosa para automatizar navegadores web, permitindo realizar desde tarefas repetitivas até testes complexos.
 Como você já tem nível intermediário em Python, a sintaxe será bem direta para você.
@@ -69,10 +69,10 @@ Este exemplo abre um site, maximiza a janela e captura o título da página para
 
 from selenium import webdriver
 
-# Inicia o driver (ex: Firefox ou Chrome)
+Inicia o driver (ex: Firefox ou Chrome)
 browser = webdriver.Firefox()
 
-# Abre um site e maximiza a tela
+Abre um site e maximiza a tela
 browser.get("http://www.selenium.dev")
 browser.maximize_window()
 
