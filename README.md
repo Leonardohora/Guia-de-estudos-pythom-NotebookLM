@@ -111,9 +111,7 @@ Para o seu curso de análise, você prefere ver um exemplo de como extrair uma l
 - O contexto do prompt influenciou diretamente na qualidade das respostas.
 
 
-##  **Miniguia de Estudo:**
-
-   *Resumos:*
+   ###Resumos:
      Python é uma ótima linguagem de programação para Automações e Análises. Devido a sua simplicidade e variedades de bibliotecas, ela é muito utilizada.
      Suas principais bibliotecas são:
      - os
@@ -132,7 +130,7 @@ Para o seu curso de análise, você prefere ver um exemplo de como extrair uma l
    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-   ### *glossário:*
+   ### glossário:
    
    ## Automação
    Processo de executar tarefas automaticamente.
@@ -147,7 +145,7 @@ Para o seu curso de análise, você prefere ver um exemplo de como extrair uma l
    Extração automática de dados de sites.
 
    
-   ### *Prompts reutilizaveis:*
+   ### Prompts reutilizaveis:
    
    ## Explicar código
    "Explique esse código Python linha por linha."
