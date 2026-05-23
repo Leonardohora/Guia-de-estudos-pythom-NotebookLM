@@ -132,28 +132,28 @@ Para o seu curso de análise, você prefere ver um exemplo de como extrair uma l
    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-   *glossário:*
+   ###*glossário:*
    
-   ### Automação
+   ## Automação
    Processo de executar tarefas automaticamente.
    
-   ### Selenium
+   ## Selenium
    Biblioteca utilizada para automação web.
    
-   ### Script
+   ## Script
    Arquivo contendo código executável.
    
-   ### Web Scraping
+   ## Web Scraping
    Extração automática de dados de sites.
 
    
-   *Prompts reutilizaveis:*
+   ###*Prompts reutilizaveis:*
    
-   ### Explicar código
+   ## Explicar código
    "Explique esse código Python linha por linha."
    
-   ### Criar automações
+   ## Criar automações
    "Crie uma automação simples em Python para organizar arquivos."
    
-   ### Corrigir erros
+   ## Corrigir erros
    "Analise esse erro em Python e explique como corrigir."
